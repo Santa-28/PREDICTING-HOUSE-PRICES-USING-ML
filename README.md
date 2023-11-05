@@ -7,9 +7,13 @@ This project is a simple implementation of a house price prediction model using 
 Before running the code, make sure you have the following dependencies installed:
 
 Python 3.x
+
 NumPy
+
 pandas
+
 scikit-learn
+
 Matplotlib
 
 You can install these libraries using pip:
@@ -51,15 +55,25 @@ This project was created as a learning exercise and is based on various machine 
 The dataset contains information about various attributes related to residential properties. It's commonly used for regression tasks to predict the sale prices of houses based on a variety of features. Here are some of the key features in the dataset:
 
 MSSubClass: The building class.
+
 LotFrontage: Linear feet of street connected to the property.
+
 LotArea:  Lot size in square feet.
+
 OverallQual:  Overall material and finish quality.
+
 YearBuilt:  Original construction date.
+
 TotalBsmtSF: Total square feet of basement area.
+
 GrLivArea: Above-ground living area square feet.
+
 FullBath: Number of full bathrooms.
+
 BedroomAbvGr: Number of bedrooms above ground.
+
 GarageCars: Size of garage in car capacity.
+
 SalePrice: The target variable, the sale price of the house.
 
 Feature 1: Description of feature 1.
