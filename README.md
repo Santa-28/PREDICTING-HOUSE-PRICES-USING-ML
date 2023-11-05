@@ -80,6 +80,7 @@ Feature 1: Description of feature 1.
 
 Feature 2: Description of feature 2.
 ...
+
 Price: The target variable, representing the sale price of the houses.
 
 This dataset is commonly used for house price prediction tasks, and it's suitable for practicing regression techniques and feature engineering.
