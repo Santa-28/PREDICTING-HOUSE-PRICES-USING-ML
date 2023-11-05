@@ -52,9 +52,9 @@ The dataset contains information about various attributes related to residential
 
 MSSubClass: The building class.
 LotFrontage: Linear feet of street connected to the property.
-LotArea: Lot size in square feet.
-OverallQual: Overall material and finish quality.
-YearBuilt: Original construction date.
+LotArea:  Lot size in square feet.
+OverallQual:  Overall material and finish quality.
+YearBuilt:  Original construction date.
 TotalBsmtSF: Total square feet of basement area.
 GrLivArea: Above-ground living area square feet.
 FullBath: Number of full bathrooms.
@@ -63,6 +63,7 @@ GarageCars: Size of garage in car capacity.
 SalePrice: The target variable, the sale price of the house.
 
 Feature 1: Description of feature 1.
+
 Feature 2: Description of feature 2.
 ...
 Price: The target variable, representing the sale price of the houses.
