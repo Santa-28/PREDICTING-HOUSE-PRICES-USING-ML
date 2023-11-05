@@ -19,7 +19,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 **1.Clone the Repository**
 
-# git clone https://github.com/Santa-28/PREDICTING-HOUSE-PRICES-USING-ML.git
+**git clone https://github.com/Santa-28/PREDICTING-HOUSE-PRICES-USING-ML.git**
 
 cd PREDICTING-HOUSE-PRICES-USING-ML
 
